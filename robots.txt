@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://armenago.github.io/sitemap.html.gz
+Sitemap: https://armenago.github.io/app/sitemap.html.gz
+Sitemap: https://armenago.github.io/assets/sitemap.html.gz
+Sitemap: https://armenago.github.io/css/sitemap.html.gz
+Sitemap: https://armenago.github.io/includes/sitemap.html.gz
+Sitemap: https://armenago.github.io/item/sitemap.html.gz
+Sitemap: https://armenago.github.io/src/sitemap.html.gz
